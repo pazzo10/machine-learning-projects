@@ -1,5 +1,5 @@
 ### Requirements
-```python
+```
 pip3 install --user -r requirements.txt
 ```
 
