@@ -3,7 +3,7 @@
 - [X] [Sentiment analysis using Natural Language Toolkit - nltk](http://www.nltk.org/)
 - [ ] [Tensorflow model to analyze emails](http://jrmeyer.github.io/tutorial/2016/02/01/TensorFlow-Tutorial.html)
 - [ ] [Top movies list by getting rankings from IMDB](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/keras/python/keras/datasets/imdb.py)
-- [ ] [Autoplay NES Super mario]
+- [ ] Autoplay NES Super mario
 
 ### ML Libraries :anchor:
 
