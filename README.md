@@ -24,3 +24,7 @@
 - [Matplotlib](https://matplotlib.org/)
 - [plotly](https://plot.ly/python/)
 - [seaborn](https://seaborn.pydata.org/)
+
+### Blog
+- [Cheats]( https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
+- [Jupyter on AWS]( https://medium.com/@GalarnykMichael/setting-up-and-using-jupyter-notebooks-on-aws-61a9648db6c5)
