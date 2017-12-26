@@ -8,6 +8,7 @@
 
 ### ML Libraries :anchor:
 
+- [Pandas](https://pandas.pydata.org/)
 - [Scikit learn](http://scikit-learn.org/)
 - [Tensorflow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
@@ -25,3 +26,5 @@
 - [Matplotlib](https://matplotlib.org/)
 - [plotly](https://plot.ly/python/)
 - [seaborn](https://seaborn.pydata.org/)
+- [vincent](https://github.com/wrobstory/vincent)
+- [folium](https://github.com/python-visualization/folium)
